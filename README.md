@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Founder of <a href="https://mastheads.app">Mastheads</a></strong><br>
-  Source-backed articles through ten editorial desks.
+  Source-backed AI articles you can put your name on.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Building Mastheads</h3>
-      <p>Mastheads writes source-backed articles for publishers, agencies and niche-site operators.</p>
+      <p>An AI article writing platform engineered to earn readers' attention and help your expertise get discovered in search and AI answers.</p>
       <p>Every article shows its sources, checks, named byline and anything the desks could not fix.</p>
       <p><a href="https://mastheads.app"><strong>Explore Mastheads →</strong></a></p>
     </td>
