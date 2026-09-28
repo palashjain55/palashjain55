@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://mastheads.app">
-    <img src="./assets/mastheads-founder-banner.gif" alt="Palash Jain, founder of Mastheads. Building an AI newsroom." width="100%">
+    <img src="./assets/mastheads-founder-banner.gif" alt="Palash Jain, founder of Mastheads. Building source-backed articles." width="100%">
   </a>
 </p>
 
 <p align="center">
   <strong>Founder of <a href="https://mastheads.app">Mastheads</a></strong><br>
-  The AI newsroom you can put your name on.
+  Source-backed articles through ten editorial desks.
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Building Mastheads</h3>
-      <p>An AI newsroom for publishers, agencies and niche-site operators.</p>
-      <p>Every article keeps its sources, checks, named byline and editor of record.</p>
+      <p>Mastheads writes source-backed articles for publishers, agencies and niche-site operators.</p>
+      <p>Every article shows its sources, checks, named byline and anything the desks could not fix.</p>
       <p><a href="https://mastheads.app"><strong>Explore Mastheads →</strong></a></p>
     </td>
     <td width="50%" valign="top">
@@ -42,7 +42,7 @@
   <summary><strong>How I build</strong></summary>
   <br>
   <p>I care about software that shows its work: sources stay attached, checks stay visible and automation remains reviewable.</p>
-  <p>Mastheads is built around that principle. The system can do the work, while the evidence and editorial decisions stay available to the person responsible for publishing it.</p>
+  <p>Mastheads is built around that principle. AI newsroom automation is one product feature, while evidence and editorial decisions stay available to the person responsible for publishing.</p>
 </details>
 
 <details>
